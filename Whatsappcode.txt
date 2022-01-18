@@ -9,3 +9,5 @@ Author:Mathan
 3.last Seen code
 
 4.Video status code
+
+5.Attachment code(video,image,audio)
